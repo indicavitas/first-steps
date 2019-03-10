@@ -1,2 +1,2 @@
-# first-stepps
+# first-steps
 first steps into developing
